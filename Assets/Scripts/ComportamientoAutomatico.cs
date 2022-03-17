@@ -10,7 +10,7 @@ public class ComportamientoAutomatico : MonoBehaviour {
 	public bool rotar = false;
 	public int contador;
 	public string estado;
-	private GameObject planta; 
+	 
 	
 	void Start(){
 		sensor = GetComponent<Sensores>();
