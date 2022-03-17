@@ -7,47 +7,35 @@ public class ComportamientoAutomatico : MonoBehaviour {
 	private Sensores sensor;
 	private Actuadores actuador;
 	public int grados = 0;
-	public bool rotar = false;
+	public bool rotando = false;
 	public string estado;
 	 
 	
 	void Start(){
 		sensor = GetComponent<Sensores>();
 		actuador = GetComponent<Actuadores>();
-	
+
 	}
 
 	void FixedUpdate () {
+		
 		if(sensor.Bateria() <= 0) {
 			return;
 		}
-		actuador.Flotar();
-        if (rotar)
-        {
-			girar();
-        }
-		if (sensor.FrenteAPared()) {
+			actuador.Flotar();
+		if (rotando) {
+			rotar();
+		} else if (sensor.FrenteAPared()) {
 			actuador.Detener();
-			rotar = true;
-		} else {
+		
+			rotando=true;
+		}else{
 			actuador.Adelante();
 		}
 
 
 	}
-	 void girar()
-    {
-		grados++;
-        if (grados == 90)
-        {
-			rotar = false;
-			grados = 0;
-        }
-        else
-        {
-			actuador.GirarDerecha();
-        }
-    }
+
 
 	void OnTriggerEnter(Collider other){
 
@@ -65,9 +53,26 @@ public class ComportamientoAutomatico : MonoBehaviour {
         		estado = "BUENA";
         		vidaPlanta(other);
         	}
+		}
+	}
+
+
+	void rotar (){
+		grados++;
+		if (grados==90)
+		{
+			rotando=false;
+			grados=0;
+		}else{
+		actuador.GirarDerecha();
 
 		}
 	}
+		bool randomDir() {
+		return (Random.value > 0.5f);
+	}
+
+
 
 
     void vidaPlanta(Collider other){
@@ -90,4 +95,5 @@ public class ComportamientoAutomatico : MonoBehaviour {
     }
         
     
-}
+	}
+

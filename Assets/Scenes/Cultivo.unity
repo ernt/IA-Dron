@@ -169,9 +169,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &359511
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -280,9 +277,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1535313
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -391,9 +385,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &4880192
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -502,9 +493,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &23921022
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -613,9 +601,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &32852666
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -724,9 +709,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &39972820
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -835,9 +817,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &45867413
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -946,9 +925,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &49992489
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1097,9 +1073,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &56021007
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1208,9 +1181,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &58686701
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1319,9 +1289,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &60403599
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1510,9 +1477,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &62612437
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1621,9 +1585,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &67767847
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1732,9 +1693,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &75939755
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1843,9 +1801,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &76535902
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1954,9 +1909,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &76996432
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2065,9 +2017,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &90107888
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2176,9 +2125,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &102877449
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2287,9 +2233,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &106258976
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2398,9 +2341,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &113131239
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2509,9 +2449,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &113888186
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2620,9 +2557,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &114878314
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2731,9 +2665,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &115804940
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2937,9 +2868,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &118831697
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3048,9 +2976,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &124175394
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3159,9 +3084,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &124465258
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3270,9 +3192,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &126389812
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3381,9 +3300,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &126464955
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3492,9 +3408,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &138264744
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3603,9 +3516,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &145062732
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3714,9 +3624,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &151359720
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3825,9 +3732,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &152430612
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3936,9 +3840,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &160483180
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -4087,9 +3988,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &174984831
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -4198,9 +4096,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &177854996
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -4309,9 +4204,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &178655155
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -4420,9 +4312,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &178839461
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -4531,9 +4420,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &179042715
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -4642,9 +4528,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &183463510
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -4753,9 +4636,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &183995616
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -4864,9 +4744,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &198766029
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -4975,9 +4852,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &201779134
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -5086,9 +4960,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &203860717
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -5197,9 +5068,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &206555523
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -5308,9 +5176,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &207233121
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -5419,9 +5284,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &208597088
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -5530,9 +5392,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &210102667
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -5641,9 +5500,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &210155202
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -5752,9 +5608,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &211611977
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -5863,9 +5716,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &211789983
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -6014,9 +5864,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &217348298
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -6125,9 +5972,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &220499526
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -6236,9 +6080,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &232888588
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -6347,9 +6188,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &236059842
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -6498,9 +6336,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &250579001
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -6609,9 +6444,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &250837209
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -6720,9 +6552,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &255346868
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -6831,9 +6660,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &256213417
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -7039,9 +6865,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &264484069
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -7150,9 +6973,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &268306812
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -7301,9 +7121,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &276650300
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -7412,9 +7229,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &277244999
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -7603,9 +7417,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &283680164
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -7714,9 +7525,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &287891886
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -7865,9 +7673,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &294928021
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -7976,9 +7781,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &307965545
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -8087,9 +7889,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &315790213
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -8198,9 +7997,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &316813995
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -8315,8 +8111,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7a2aeb69ebb23623c951f212b2c6c059, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  vidaMaxima: 0
-  vidaCrecimiento: 0
 --- !u!1 &330739728
 GameObject:
   m_ObjectHideFlags: 0
@@ -8403,9 +8197,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &347941932
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -8554,9 +8345,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &351408886
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -8671,8 +8459,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7a2aeb69ebb23623c951f212b2c6c059, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  vidaMaxima: 0
-  vidaCrecimiento: 0
 --- !u!1 &359194800
 GameObject:
   m_ObjectHideFlags: 0
@@ -8719,9 +8505,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &359194803
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -8830,9 +8613,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &359231157
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -8941,9 +8721,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &370340564
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -9052,9 +8829,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &379677620
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -9163,9 +8937,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &390750950
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -9274,9 +9045,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &394510323
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -9385,9 +9153,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &399973936
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -9496,9 +9261,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &408592811
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -9607,9 +9369,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &417019861
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -9758,9 +9517,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &422811739
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -9869,9 +9625,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &429522171
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -9980,9 +9733,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &436529252
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -10072,7 +9822,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 439491137}
   m_LocalRotation: {x: 0.5, y: 0.5, z: -0.5, w: 0.5}
-  m_LocalPosition: {x: -18.513966, y: -5.4952307, z: -30.11122}
+  m_LocalPosition: {x: -17.3, y: -4.8, z: -30.11122}
   m_LocalScale: {x: 67.03341, y: -0.08724758, z: 30.33571}
   m_Children: []
   m_Father: {fileID: 1695930782}
@@ -10186,9 +9936,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &446085628
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -10297,9 +10044,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &449099112
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -10408,9 +10152,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &456195225
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -10519,9 +10260,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &460049314
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -10630,9 +10368,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &461384542
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -10741,9 +10476,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &480721327
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -10892,9 +10624,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &482477060
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -11003,9 +10732,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &482677461
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -11114,9 +10840,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &489926722
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -11225,9 +10948,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &496838109
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -11336,9 +11056,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &502699951
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -11447,9 +11164,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &503605737
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -11558,9 +11272,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &509188526
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -11709,9 +11420,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &521317213
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -11820,9 +11528,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &524493917
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -11931,9 +11636,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &536381557
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -12042,9 +11744,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &539178269
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -12153,9 +11852,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &539333012
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -12264,9 +11960,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &540659347
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -12470,9 +12163,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &546998670
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -12581,9 +12271,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &553716261
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -12692,9 +12379,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &556656733
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -12803,9 +12487,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &559648829
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -12914,9 +12595,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &559805169
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -13025,9 +12703,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &561258569
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -13136,9 +12811,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &568243779
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -13247,9 +12919,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &569541047
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -13358,9 +13027,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &574927238
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -13469,9 +13135,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &575602270
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -13580,9 +13243,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &575846514
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -13691,9 +13351,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &580741906
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -13802,9 +13459,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &582892977
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -13913,9 +13567,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &588184453
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -14024,9 +13675,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &592599801
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -14135,9 +13783,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &595219737
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -14246,9 +13891,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &601968121
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -14357,9 +13999,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &607427402
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -14468,9 +14107,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &625237778
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -14579,9 +14215,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &626627711
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -14690,9 +14323,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &634752989
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -14834,9 +14464,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &642425948
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -14945,9 +14572,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &646267370
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -15056,9 +14680,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &652309389
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -15167,9 +14788,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &656185255
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -15278,9 +14896,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &664787102
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -15389,9 +15004,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &669390444
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -15500,9 +15112,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &677212903
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -15611,9 +15220,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &686198355
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -15722,9 +15328,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &688652243
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -15833,9 +15436,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &690946831
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -15944,9 +15544,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &693418257
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -16095,9 +15692,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &703880785
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -16299,9 +15893,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &710322837
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -16507,9 +16098,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &720115281
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -16618,9 +16206,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &721488662
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -16769,9 +16354,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &735179181
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -16880,9 +16462,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &742967799
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -16991,9 +16570,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &757294077
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -17102,9 +16678,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &758780055
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -17213,9 +16786,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &759140717
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -17324,9 +16894,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &771563790
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -17435,9 +17002,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &783367232
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -17546,9 +17110,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &785175491
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -17657,9 +17218,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &791113687
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -17768,9 +17326,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &810941420
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -17879,9 +17434,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &813695348
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -17990,9 +17542,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &821422648
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -18141,9 +17690,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &824669739
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -18252,9 +17798,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &824782002
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -18472,9 +18015,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &831106841
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -18583,9 +18123,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &833532282
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -18694,9 +18231,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &838291070
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -18805,9 +18339,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &838512592
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -18916,9 +18447,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &839954944
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -19122,9 +18650,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &855679445
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -19233,9 +18758,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &859954228
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -19344,9 +18866,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &862456609
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -19455,9 +18974,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &865893575
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -19606,9 +19122,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &874627899
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -19717,9 +19230,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &893267995
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -19868,9 +19378,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &904995720
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -19979,9 +19486,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &908220828
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -20090,9 +19594,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &909695088
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -20201,9 +19702,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &920015295
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -20312,9 +19810,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &926512717
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -20423,9 +19918,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &927210201
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -20534,9 +20026,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &935262717
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -20645,9 +20134,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &941960083
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -20798,8 +20284,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 943048453}
-  m_LocalRotation: {x: 0.7071068, y: -0, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 19.586037, y: -5.5252304, z: 3.0887794}
+  m_LocalRotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
+  m_LocalPosition: {x: 20.4, y: -4.9, z: 5}
   m_LocalScale: {x: 83.529686, y: -0.08724757, z: 30.33571}
   m_Children: []
   m_Father: {fileID: 1695930782}
@@ -20851,9 +20337,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &949477219
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -20962,9 +20445,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &952721802
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -21073,9 +20553,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &958131718
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -21267,9 +20744,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &969431439
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -21422,7 +20896,7 @@ Transform:
   m_GameObject: {fileID: 969470443}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 84.057, y: 0.2, z: 64.752}
+  m_LocalScale: {x: 90, y: 0.2, z: 90}
   m_Children: []
   m_Father: {fileID: 1466408151}
   m_RootOrder: 0
@@ -21473,9 +20947,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &974253702
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -21628,9 +21099,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &983228568
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -21739,9 +21207,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &987054276
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -21850,9 +21315,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &991094103
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -22001,9 +21463,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &998303861
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -22112,9 +21571,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1000365226
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -22280,9 +21736,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1018652569
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -22391,9 +21844,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1032484194
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -22502,9 +21952,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1041558712
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -22613,9 +22060,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1042366330
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -22724,9 +22168,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1059914211
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -22835,9 +22276,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1071371651
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -22946,9 +22384,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1077211661
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -23057,9 +22492,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1081603549
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -23168,9 +22600,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1087296684
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -23279,9 +22708,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1088654328
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -23390,9 +22816,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1088810226
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -23501,9 +22924,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1095186847
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -23612,9 +23032,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1103047543
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -23723,9 +23140,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1104981008
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -23834,9 +23248,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1109713466
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -23945,9 +23356,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1111638515
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -24056,9 +23464,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1113791902
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -24167,9 +23572,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1118561928
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -24278,9 +23680,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1127892647
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -24389,9 +23788,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1131531994
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -24500,9 +23896,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1135432701
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -24651,9 +24044,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1137150335
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -24762,9 +24152,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1155132235
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -24873,9 +24260,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1158520028
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -25070,9 +24454,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1175260389
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -25181,9 +24562,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1184887909
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -25292,9 +24670,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1187998035
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -25403,9 +24778,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1194293715
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -25495,8 +24867,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1197172707}
   m_LocalRotation: {x: 0.5, y: 0.5, z: -0.5, w: 0.5}
-  m_LocalPosition: {x: 61.186035, y: -5.4952307, z: -30.11122}
-  m_LocalScale: {x: 67.03341, y: -0.08724758, z: 30.33571}
+  m_LocalPosition: {x: 61.186035, y: -5.4, z: -30.11122}
+  m_LocalScale: {x: 71.43751, y: -0.08724758, z: 30.33571}
   m_Children: []
   m_Father: {fileID: 1695930782}
   m_RootOrder: 3
@@ -25609,9 +24981,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1198832342
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -25720,9 +25089,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1200214265
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -25831,9 +25197,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1201576299
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -25942,9 +25305,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1202176632
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -26053,9 +25413,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1203292690
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -26164,9 +25521,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1230242321
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -26275,9 +25629,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1234238152
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -26386,9 +25737,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1234490745
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -26497,9 +25845,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1234698291
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -26608,9 +25953,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1244036285
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -26719,9 +26061,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1246016927
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -26830,9 +26169,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1246197596
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -26941,9 +26277,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1247952037
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -27052,9 +26385,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1249213663
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -27163,9 +26493,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1259884157
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -27274,9 +26601,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1262703321
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -27385,9 +26709,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1270023479
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -27496,9 +26817,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1275886947
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -27607,9 +26925,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1275952387
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -27718,9 +27033,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1277753191
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -27829,9 +27141,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1279062082
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -27940,9 +27249,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1283507488
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -28051,9 +27357,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1303621934
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -28162,9 +27465,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1305205296
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -28279,8 +27579,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7a2aeb69ebb23623c951f212b2c6c059, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  vidaMaxima: 0
-  vidaCrecimiento: 0
 --- !u!1 &1318575639
 GameObject:
   m_ObjectHideFlags: 0
@@ -28327,9 +27625,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1318575642
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -28478,9 +27773,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1339654938
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -28589,9 +27881,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1340533316
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -28700,9 +27989,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1358229272
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -28811,9 +28097,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1364486026
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -28922,9 +28205,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1376448925
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -29033,9 +28313,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1400359999
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -29144,9 +28421,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1401064803
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -29255,9 +28529,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1402210228
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -29366,9 +28637,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1408469800
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -29477,9 +28745,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1413413370
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -29588,9 +28853,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1414380662
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -29808,9 +29070,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1420504093
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -29999,9 +29258,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1444332535
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -30110,9 +29366,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1449661886
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -30221,9 +29474,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1451369186
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -30366,9 +29616,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1477292134
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -30477,9 +29724,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1488608314
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -30588,9 +29832,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1494026771
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -30699,9 +29940,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1506008259
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -30850,9 +30088,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1514092752
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -30961,9 +30196,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1514191441
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -31072,9 +30304,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1515430466
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -31223,9 +30452,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1520326032
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -31334,9 +30560,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1523223501
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -31445,9 +30668,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1526225207
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -31556,9 +30776,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1532763084
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -31667,9 +30884,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1537701110
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -31778,9 +30992,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1547550287
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -31889,9 +31100,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1563288852
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -32000,9 +31208,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1565994343
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -32111,9 +31316,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1568552055
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -32222,9 +31424,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1576487251
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -32333,9 +31532,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1581538360
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -32539,9 +31735,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1602031379
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -32650,9 +31843,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1602316953
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -32761,9 +31951,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1606422414
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -32872,9 +32059,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1607772491
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -32983,9 +32167,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1617466074
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -33134,9 +32315,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1628655493
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -33245,9 +32423,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1634060361
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -33356,9 +32531,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1643259896
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -33467,9 +32639,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1644240037
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -33578,9 +32747,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1645779708
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -33798,9 +32964,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1657205680
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -33909,9 +33072,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1660847147
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -34020,9 +33180,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1663483263
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -34131,9 +33288,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1668427704
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -34242,9 +33396,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1673829208
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -34353,9 +33504,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1692897991
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -34464,9 +33612,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1694254865
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -34609,9 +33754,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1703431029
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -34720,9 +33862,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1706041798
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -34831,9 +33970,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1707256942
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -34942,9 +34078,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1712442354
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -35053,9 +34186,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1713793577
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -35164,9 +34294,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1720499001
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -35275,9 +34402,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1721619493
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -35386,9 +34510,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1721893339
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -35497,9 +34618,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1730469287
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -35608,9 +34726,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1737032240
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -35719,9 +34834,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1741352416
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -35830,9 +34942,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1744696720
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -35941,9 +35050,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1751656296
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -36052,9 +35158,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1755847687
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -36163,9 +35266,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1757923715
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -36383,9 +35483,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1765299752
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -36494,9 +35591,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1768508672
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -36605,9 +35699,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1770026180
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -36716,9 +35807,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1773245390
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -36827,9 +35915,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1780151745
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -36938,9 +36023,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1792517348
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -37049,9 +36131,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1798588290
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -37165,9 +36244,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1816267811
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -37276,9 +36352,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1817072207
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -37387,9 +36460,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1820977865
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -37538,9 +36608,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1827020329
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -37649,9 +36716,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1830379202
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -37800,9 +36864,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1839771102
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -37911,9 +36972,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1840182775
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -38022,9 +37080,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1849393104
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -38133,9 +37188,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1852412408
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -38244,9 +37296,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1856047897
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -38355,9 +37404,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1859467919
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -38466,9 +37512,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1860741965
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -38577,9 +37620,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1862948135
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -38733,9 +37773,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1872203923
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -38844,9 +37881,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1876496028
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -39017,10 +38051,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   grados: 0
-  rotar: 0
-  contador: 0
+  rotando: 0
   estado: 
-  vida: {fileID: 0}
 --- !u!114 &1902013081
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -39082,9 +38114,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1903348653
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -39199,8 +38228,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7a2aeb69ebb23623c951f212b2c6c059, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  vidaMaxima: 0
-  vidaCrecimiento: 0
 --- !u!1 &1904921024
 GameObject:
   m_ObjectHideFlags: 0
@@ -39247,9 +38274,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1904921027
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -39358,9 +38382,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1906543264
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -39469,9 +38490,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1908377108
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -39580,9 +38598,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1912844918
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -39691,9 +38706,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1924188198
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -39802,9 +38814,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1931222359
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -39913,9 +38922,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1936890661
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -40024,9 +39030,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1949408925
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -40135,9 +39138,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1961090953
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -40246,9 +39246,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1965689296
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -40452,9 +39449,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1973062975
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -40563,9 +39557,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1983380759
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -40674,9 +39665,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1984517946
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -40785,9 +39773,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1991276800
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -40896,9 +39881,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &1998661799
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -41047,9 +40029,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &2014586827
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -41198,9 +40177,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &2032126809
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -41309,9 +40285,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &2041807352
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -41420,9 +40393,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &2042119916
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -41536,9 +40506,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &2056765615
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -41647,9 +40614,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &2070835317
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -41758,9 +40722,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &2074710102
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -41869,9 +40830,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &2081357979
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -41980,9 +40938,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &2082336117
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -42091,9 +41046,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &2088332884
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -42202,9 +41154,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &2094388637
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -42313,9 +41262,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &2096136492
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -42424,9 +41370,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &2096237408
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -42535,9 +41478,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &2099040975
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -42646,9 +41586,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &2099084754
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -42757,9 +41694,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &2121840506
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -42868,9 +41802,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &2126003671
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -42979,9 +41910,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &2129072970
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -43090,9 +42018,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &2133272662
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -43201,9 +42126,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &2133441884
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -43312,9 +42234,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &2136667328
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -43423,9 +42342,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &2140481818
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -43534,9 +42450,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &2142549869
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -43645,9 +42558,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5479f372cd296ffedbd752019a97ddd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorA: 255
-  colorB: 0
-  colorC: 43
 --- !u!65 &2145068381
 BoxCollider:
   m_ObjectHideFlags: 0
