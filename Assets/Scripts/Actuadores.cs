@@ -1,7 +1,9 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+ 
 
+ 
 public class Actuadores : MonoBehaviour
 {
     private Rigidbody rb; // Componente para simular acciones físicas realistas
