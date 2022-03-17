@@ -10,13 +10,11 @@ public class ComportamientoAutomatico : MonoBehaviour {
 	public bool rotar = false;
 	public int contador;
 	public string estado;
-	public Vida vida;
 	private GameObject planta; 
 	
 	void Start(){
 		sensor = GetComponent<Sensores>();
 		actuador = GetComponent<Actuadores>();
-		vida = GameObject.Find("Vida").gameObject.GetComponent<Vida>();
 	
 	}
 
@@ -36,8 +34,6 @@ public class ComportamientoAutomatico : MonoBehaviour {
 			actuador.Adelante();
 		}
 
-		if(vida.getVida() > 0.0f) // esto evita que la batería sea negativa
-            vida.setVida(vida.getVida() - Time.deltaTime);
 
 	}
 	 void girar()
