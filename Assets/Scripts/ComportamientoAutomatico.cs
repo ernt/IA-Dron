@@ -9,14 +9,15 @@ public class ComportamientoAutomatico : MonoBehaviour {
 	public int grados = 0;
 	public bool rotar = false;
 	public int contador;
-
+	public string estado;
+	public Vida vida;
+	private GameObject planta; 
 	
 	void Start(){
 		sensor = GetComponent<Sensores>();
 		actuador = GetComponent<Actuadores>();
+		vida = GameObject.Find("Vida").gameObject.GetComponent<Vida>();
 	
-		
-
 	}
 
 	void FixedUpdate () {
@@ -34,6 +35,10 @@ public class ComportamientoAutomatico : MonoBehaviour {
 		} else {
 			actuador.Adelante();
 		}
+
+		if(vida.getVida() > 0.0f) // esto evita que la batería sea negativa
+            vida.setVida(vida.getVida() - Time.deltaTime);
+
 	}
 	 void girar()
     {
@@ -49,15 +54,45 @@ public class ComportamientoAutomatico : MonoBehaviour {
         }
     }
 
-	void OnTriggerEnter(Collider other)
-	{
+	void OnTriggerEnter(Collider other){
 
-		if (other.gameObject.CompareTag("Cultivo"))
-		{
-			Destroy(other.gameObject);
-			contador++;
+		if (other.gameObject.CompareTag("Cultivo")){
+			if(other.GetComponent<Renderer>().material.color == Color.black){
+				estado = "NUEVA";
+				vidaPlanta(other);
+			}else if(other.GetComponent<Renderer>().material.color == Color.yellow){
+				estado = "CASI_SECA";
+				vidaPlanta(other);
+			}else if(other.GetComponent<Renderer>().material.color == Color.red){
+				estado = "SECA";
+				vidaPlanta(other);
+        	}else{
+        		estado = "BUENA";
+        		vidaPlanta(other);
+        	}
+
 		}
 	}
 
 
-	}
+    void vidaPlanta(Collider other){
+    	if(estado == "SECA"){
+            other.GetComponent<Renderer>().material.color = Color.yellow;
+            estado = "CASI_SECA";
+            
+        }else if (estado == "NUEVA"){
+        	other.GetComponent<Renderer>().material.color = Color.red;
+        	estado = "SECA";
+        	
+            
+        }else if(estado == "CASI_SECA"){
+        	other.GetComponent<Renderer>().material.color = Color.green;
+        	estado = "BUENA";
+        }else{
+        	estado = "BUENA";
+        	other.GetComponent<Renderer>().material.color = Color.green;
+        }
+    }
+        
+    
+}
