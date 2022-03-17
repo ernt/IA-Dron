@@ -8,7 +8,6 @@ public class ComportamientoAutomatico : MonoBehaviour {
 	private Actuadores actuador;
 	public int grados = 0;
 	public bool rotar = false;
-	public int contador;
 	public string estado;
 	 
 	
