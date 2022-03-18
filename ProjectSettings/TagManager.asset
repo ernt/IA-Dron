@@ -9,6 +9,7 @@ TagManager:
   - BaseDeCarga
   - Cultivo
   - Suelo
+  - CultivoA
   layers:
   - Default
   - TransparentFX

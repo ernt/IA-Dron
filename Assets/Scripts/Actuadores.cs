@@ -1,15 +1,15 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
- 
 
- 
+
+
 public class Actuadores : MonoBehaviour
 {
     private Rigidbody rb; // Componente para simular acciones físicas realistas
     private Bateria bateria; // Componente adicional (script) que representa la batería
     private Sensores sensor; // Componente adicional (script) para obtener información de los sensores
-
+    private SistemaRiego sistemariego;
     private float upForce; // Indica la fuerza de elevación del dron
     private float movementForwardSpeed = 100.0f; // Escalar para indicar fuerza de movimiento frontal
     private float wantedYRotation; // Auxiliar para el cálculo de rotación
@@ -18,7 +18,8 @@ public class Actuadores : MonoBehaviour
     private float sideMovementAmount = 250.0f; // Escalar para indicar velocidad de movimiento lateral
 
     // Asignaciones de componentes
-    void Start(){
+    void Start()
+    {
         rb = GetComponent<Rigidbody>();
         sensor = GetComponent<Sensores>();
         bateria = GameObject.Find("Bateria").gameObject.GetComponent<Bateria>();
@@ -28,62 +29,76 @@ public class Actuadores : MonoBehaviour
     // A partir de aqui, todos los métodos definidos son públicos, la intención
     // es que serán usados por otro componente (Controlador)
 
-    public void Ascender(){
+    public void Ascender()
+    {
         upForce = 190;
         rb.AddRelativeForce(Vector3.up * upForce);
     }
 
-    public void Descender(){
+    public void Descender()
+    {
         upForce = 10;
         rb.AddRelativeForce(Vector3.up * upForce);
     }
 
-    public void Flotar(){
+    public void Flotar()
+    {
         upForce = 98.1f;
         rb.AddRelativeForce(Vector3.up * upForce);
     }
 
-    public void Adelante(){
+    public void Adelante()
+    {
         rb.AddRelativeForce(Vector3.forward * movementForwardSpeed);
     }
 
-    public void Atras(){
+    public void Atras()
+    {
         rb.AddRelativeForce(Vector3.back * movementForwardSpeed);
     }
 
-    public void GirarDerecha(){
+    public void GirarDerecha()
+    {
         transform.Rotate(Vector3.up, 1.0f);
     }
 
-    public void GirarIzquierda(){
+    public void GirarIzquierda()
+    {
         transform.Rotate(Vector3.up, -1.0f);
     }
 
-    public void Derecha(){
+    public void Derecha()
+    {
         rb.AddRelativeForce(Vector3.right * sideMovementAmount);
     }
 
-    public void Izquierda(){
+    public void Izquierda()
+    {
         rb.AddRelativeForce(Vector3.left * sideMovementAmount);
     }
 
-    public void Detener(){
+    public void Detener()
+    {
         rb.velocity = Vector3.zero;
         rb.angularVelocity = Vector3.zero;
     }
 
-    public void Limpiar(GameObject basura){
-        basura.SetActive(false);
-        sensor.SetTocandoBasura(false);
-        sensor.SetCercaDeBasura(false);
-    }
 
-    public void CargarBateria(){
+
+    public void CargarBateria()
+    {
         bateria.Cargar();
     }
 
-    public void GirarAleatorio(){
+    public void GirarAleatorio()
+    {
         float g = Random.Range(-90.0f, 90f);
         transform.Rotate(Vector3.up, g);
+    }
+
+    public void RiegaPlantas()
+    {
+ 
+        sistemariego.playSistema();
     }
 }
