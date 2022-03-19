@@ -8,15 +8,13 @@ public class ComportamientoAutomatico : MonoBehaviour {
 	private Actuadores actuador;
 	public int grados = 0;
 	public bool rotar = false;
-	public int contador;
-
-	
+	public string estado;
+	private bool activo;
+	private int contador = 0;
 	void Start(){
 		sensor = GetComponent<Sensores>();
 		actuador = GetComponent<Actuadores>();
 	
-		
-
 	}
 
 	void FixedUpdate () {
@@ -30,10 +28,12 @@ public class ComportamientoAutomatico : MonoBehaviour {
         }
 		if (sensor.FrenteAPared()) {
 			actuador.Detener();
-			rotar = true;
+			actuador.GirarAleatorio();
+			
 		} else {
 			actuador.Adelante();
 		}
+
 	}
 	 void girar()
     {
@@ -45,19 +45,55 @@ public class ComportamientoAutomatico : MonoBehaviour {
         }
         else
         {
-			actuador.GirarDerecha();
+			actuador.GirarAleatorio();
         }
     }
 
 	void OnTriggerEnter(Collider other)
 	{
+		
+		
+		if (other.gameObject.CompareTag("CultivoA")){
 
-		if (other.gameObject.CompareTag("Cultivo"))
-		{
-			Destroy(other.gameObject);
-			contador++;
-		}
+			if(contador >= 0 && contador <= 90){
+				if (other.GetComponent<Renderer>().material.color == Color.black)
+				{
+					other.GetComponent<Renderer>().material.color = Color.green;
+					contador ++;
+				}
+			}	
+		}else if (other.gameObject.CompareTag("CultivoB")){
+			
+			if(contador >= 90 && contador <= 180){
+				if (other.GetComponent<Renderer>().material.color == Color.black)
+				{
+					other.GetComponent<Renderer>().material.color = Color.green;
+					contador ++;
+				}
+			}	
+		}else if (other.gameObject.CompareTag("CultivoC")){
+			
+			if(contador >= 180 && contador <= 270){
+				if (other.GetComponent<Renderer>().material.color == Color.black)
+				{
+					other.GetComponent<Renderer>().material.color = Color.green;
+					contador ++;
+				}
+			}	
+		}else if (other.gameObject.CompareTag("CultivoD")){
+			
+			if(contador >= 270 && contador <= 360){
+				if (other.GetComponent<Renderer>().material.color == Color.black)
+				{
+					other.GetComponent<Renderer>().material.color = Color.green;
+					contador ++;
+				}
+			}	
+		}			
+	
 	}
 
 
-	}
+
+
+}

@@ -8,6 +8,11 @@ TagManager:
   - Pared
   - BaseDeCarga
   - Cultivo
+  - Suelo
+  - CultivoA
+  - CultivoB
+  - CultivoC
+  - CultivoD
   layers:
   - Default
   - TransparentFX

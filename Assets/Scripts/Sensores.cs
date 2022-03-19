@@ -27,7 +27,7 @@ public class Sensores : MonoBehaviour{
 
     void Update(){
       cercaPared = radar.CercaDePared();
-      cercaBasura = radar.CercaDeBasura();
+      
       frentePared = rayo.FrenteAPared();
     }
 
@@ -92,13 +92,9 @@ public class Sensores : MonoBehaviour{
     public bool FrenteAPared(){
         return rayo.FrenteAPared();
     }
-
-    public bool TocandoBasura(){
-        return tocandoBasura;
-    }
-
-    public bool CercaDeBasura(){
-        return radar.CercaDeBasura();
+    public bool CercaCultivo()
+    {
+        return radar.CercadeCultivo();
     }
 
     public float Bateria(){
@@ -107,9 +103,7 @@ public class Sensores : MonoBehaviour{
 
     // Algunos otros métodos auxiliares que pueden ser de apoyo
 
-    public GameObject GetBasura(){
-        return basura;
-    }
+   
 
     public Vector3 Ubicacion(){
         return transform.position;
@@ -119,7 +113,5 @@ public class Sensores : MonoBehaviour{
         tocandoBasura = value;
     }
 
-    public void SetCercaDeBasura(bool value){
-        radar.setCercaDeBasura(value);
-    }
+   
 }
